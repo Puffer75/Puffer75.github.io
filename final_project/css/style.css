@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Volkhov:400,700&display=swap');
+
+body {
+  background-color: black;
+  color: white;
+  font-family: "Volkhov", sans-serif;
+}
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Volkhov", sans-serif;
+  color: purple;
+  background-color: white;
+  border: 2px solid blue;
+  padding: 20px;
+  margin-top: 60px;
+}
+
+h2 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 40 px;
+}
+
+img {
+  display: block;
+  margin: 40px auto;
+}
